@@ -1,5 +1,17 @@
 #EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 17:52 05.02.2024 | TV 
 
+
+
+
+#EXTINF:1 tvg-id="ExxenSpor.tr" tvg-logo="https://wimage.exxen.com/img/landing/logo-web.svg" group-title="Spor",ExxenSpor
+https://cdn403.canlitv.services/cbcsport.m3u8?tkn=UkDOOnXleRqKhsSB2W7UFw&tms=1707284269&hst=tr.canlitv.services&ip=2a02:a03f:878e:4500:b148:5adf:dba5:9a75
+
+
+
+
+
+
+
 #EXTINF:1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
